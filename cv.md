@@ -18,9 +18,9 @@ will become my career.
 ### Code example ###
   ```
 function perimeterSequence(a, n) {
-  let perimeterOfOne = a * 4;
-  let result = perimeterOfOne * n;
-  return result;
+    let perimeterOfOne = a * 4;
+    let result = perimeterOfOne * n;
+    return result;
 }
   ```
 
