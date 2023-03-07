@@ -4,6 +4,7 @@
   - **Tel:** +7(905)287-59-16
   - **E-mail:** lenokcardio@gmail.com
   - **Discord:** Elena Nikolaeva#9330
+  - **Github:** [ElenaKilljoy](https://github.com/elenakilljoy)
 
 ### About myself ###
   I'm a Russian language teacher. I've recently become interested in programming and spend most of my 
